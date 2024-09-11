@@ -1,5 +1,5 @@
 <div>
-  <h1>
+  <h1 align="center">
     Hello👋, I am Elijah Milan Inamarga
   </h1>
   <br>
