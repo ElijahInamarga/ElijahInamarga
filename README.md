@@ -6,7 +6,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="left">
-      <p padding="4em">
+      <p padding="10px">
         Hello, I am a second-year student majoring in computer sciene in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.
       </p>
     </td>
