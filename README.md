@@ -17,9 +17,9 @@
     </tr>
   </table>
   <h2>My Skills</h2>
-  <div display="inline">
+  <div display="inline">redux-original.svg
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="html5" width="40" height="40""/>_
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40""/>_
+          <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html5" width="40" height="40""/>_
           <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/>_
           <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>_
           <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
