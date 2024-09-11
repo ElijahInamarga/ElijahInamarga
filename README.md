@@ -11,7 +11,7 @@
           Hello, I am a second-year student majoring in computer sciene in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.
         </p>
       </td>
-      <td width="50%">
+      <td align="center" width="50%">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9Obofy-DqhDfwEaKcqs1hN_cDaNq4JsNzA&s"/>
       </td>
     </tr>
