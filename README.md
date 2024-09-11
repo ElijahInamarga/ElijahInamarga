@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I am Elijah Milan Inamarga! 👋
+  👋 Hello, I am Elijah Milan Inamarga!
 </h1>
 <h2 align="center">
   About Me
