@@ -3,19 +3,18 @@
 </h1>
 
 <h2>About Me </h2>
-  <table align="center" width="100%">
-    <tr>
-      <td align="left" width="50%">
-        <p padding="4em">
-          Hello, I am a second-year student majoring in computer sciene in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <img src="./assets/coding.jpg" alt="image" width="65%" />
-      </td>
-    </tr>
-  </table>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="left">
+      <p padding="4em">
+        Hello, I am a second-year student majoring in computer sciene in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.
+      </p>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -24,3 +23,4 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
