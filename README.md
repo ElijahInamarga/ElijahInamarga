@@ -12,7 +12,7 @@
         </p>
       </td>
       <td width="50%">
-        <img src="https://www.edutopia.org/blog/teach-kids-coding-resources-parents-matt-davis](https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-coding-for-parents-2-01.jpg"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9Obofy-DqhDfwEaKcqs1hN_cDaNq4JsNzA&s"/>
       </td>
     </tr>
   </table>
