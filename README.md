@@ -4,7 +4,7 @@
 <h2 align="center">
   About Me
 </h2>
-<p>
+<p align="center">
   Hello, I am a second-year student majoring in computer sciene in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.
 </p>
 <br><br>
