@@ -1,6 +1,7 @@
 <h1 align="center">
   Hello👋, I am Elijah Milan Inamarga
 </h1>
+<br>
 
 <h2>About Me </h2>
 <table align="center" width="100%">
