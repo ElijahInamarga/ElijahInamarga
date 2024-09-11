@@ -6,6 +6,7 @@
 </h2>
 <p>Hello, I am a second-year student majoring in computer sciene in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.</p>
 <br>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?  style=for-the-badge&logo=node.js&logoColor=white) 
