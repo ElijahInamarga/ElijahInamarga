@@ -20,10 +20,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     &nbsp;
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
@@ -34,10 +30,6 @@
     &nbsp;
     <a href="https://www.w3schools.com/css/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://sass-lang.com/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
     &nbsp;
     <a href="https://webpack.js.org/">
