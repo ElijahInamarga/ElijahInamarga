@@ -12,6 +12,7 @@
         </p>
       </td>
       <td width="50%">
+        <img src="https://www.edutopia.org/blog/teach-kids-coding-resources-parents-matt-davis"/>
       </td>
     </tr>
   </table>
