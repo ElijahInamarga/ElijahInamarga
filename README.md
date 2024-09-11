@@ -1,3 +1,3 @@
-# Personal-Repository
+# Elijah Milan Inamarga
 
 Hello
