@@ -12,7 +12,7 @@
         </p>
       </td>
       <td align="center" width="50%">
-        <img src="https://github.com/user-attachments/assets/458caf87-0756-4ca4-8d9d-91eca2682522"/>
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png"/>
       </td>
     </tr>
   </table>
