@@ -26,8 +26,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="css" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="css" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="css" width="40" height="40"/>
-        </div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="css" width="40" height="40"/>
+  </div>
 </div>
 
 
