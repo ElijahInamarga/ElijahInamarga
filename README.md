@@ -3,7 +3,7 @@
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
   <br/>
-  <h2 >About Me 👨‍💼</h2>
+  <h2 >About Me 💻<h2>
   <table width="100%">
     <tr>
       <td align="left">
