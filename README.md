@@ -4,8 +4,8 @@
   </h1>
   <div>
     <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
-      </a>
+      <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
+    </a>
   </div>
   <br/>
   <h2 >About Me</h2>
