@@ -2,6 +2,7 @@
   <h1>
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
+  <a><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/></a>
   <br/>
   <h2 >About Me</h2>
   <table width="100%">
