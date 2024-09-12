@@ -16,7 +16,7 @@
       </td>
     </tr>
   </table>
-  <div display="inline">
+  <div display="inline" width="100%">
     <div width="50%">
       <h2>My Skills</h2>
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40""/>
