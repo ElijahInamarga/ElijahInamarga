@@ -2,7 +2,7 @@
   <h1>
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
-  <br>
+  <br/>
   <h2 >About Me</h2>
   <table width="100%">
     <tr>
@@ -16,6 +16,7 @@
       </td>
     </tr>
   </table>
+  <br/>
   <div>
     <h2>My Tools and Languages</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40""/>
