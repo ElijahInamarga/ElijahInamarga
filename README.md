@@ -2,14 +2,6 @@
   <h1>
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
-  <div>
-    <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
-    </a>
-    <a href="https://www.instagram.com/elijahinamarga/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-962fbf?logo=instagram&logoColor=white&style=flat"/>
-    </a>
-  </div>
   <br/>
   <h2 >About Me</h2>
   <table width="100%">
@@ -35,5 +27,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="css" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="css" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css" width="40" height="40"/>
+  </div>
+  <div>
+    <h2>Contact</h2>
+    <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
+    </a>
+    <a href="https://www.instagram.com/elijahinamarga/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-962fbf?logo=instagram&logoColor=white&style=flat"/>
+    </a>
   </div>
 </div>
