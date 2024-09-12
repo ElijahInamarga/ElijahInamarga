@@ -1,4 +1,4 @@
-<div align="center" backgroundcolor="#1c2431">
+<div align="center">
   <h1>
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
