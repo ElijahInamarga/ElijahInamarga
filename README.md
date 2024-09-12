@@ -6,6 +6,12 @@
     <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
     </a>
+    <a href="https://www.instagram.com/gazizova_xeniya" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-962fbf?logo=instagram&logoColor=white&style=flat"/>
+    </a>
+    <a href="https://discord.com/users/693168391644512286" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat"/>
+    </a>
   </div>
   <br/>
   <h2 >About Me</h2>
