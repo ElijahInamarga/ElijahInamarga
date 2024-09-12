@@ -12,8 +12,7 @@
         </p>
       </td>
       <td align="center" width="50%">
-        <img src="![image](https://github.com/user-attachments/assets/458caf87-0756-4ca4-8d9d-91eca2682522)
-"/>
+        <img src="https://github.com/user-attachments/assets/458caf87-0756-4ca4-8d9d-91eca2682522"/>
       </td>
     </tr>
   </table>
