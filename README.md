@@ -2,7 +2,11 @@
   <h1>
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
-  <a href="https://www.linkedin.com/in/elijah-milan-inamarga-2a78132aa"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="html5" width="40" height="40"/></a>
+  <div>
+    <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
+      </a>
+  </div>
   <br/>
   <h2 >About Me</h2>
   <table width="100%">
