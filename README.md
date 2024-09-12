@@ -16,7 +16,7 @@
       </td>
     </tr>
   </table>
-  <div display="inlineflex" width="100%">
+  <div display="flex-box" width="100%">
     <div width="50%">
       <h3>Tools</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40""/>
