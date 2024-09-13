@@ -3,7 +3,7 @@
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
   <br/>
-  <h2 >About Me 💻<h2>
+  <h2 size="1em">About Me 💻<h2>
   <table width="100%">
     <tr>
       <td align="left">
@@ -17,7 +17,7 @@
     </tr>
   </table>
   <div>
-    <h2>My Tools and Languages 🛠️</h2>
+    <h2 size="1em">My Tools and Languages 🛠️</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="css" width="40" height="40"/>
@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css" width="40" height="40"/>
   </div>
   <div>
-    <h2>Contact 📱</h2>
+    <h2 size="1em">Contact 📱</h2>
     <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
     </a>
