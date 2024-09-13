@@ -17,7 +17,7 @@
     </tr>
   </table>
   <div>
-    <h2>My Tools and Languages 🛠️</h2>
+    <h3>My Tools and Languages 🛠️</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="css" width="40" height="40"/>
