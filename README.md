@@ -12,12 +12,12 @@
         </p>
       </td>
       <td align="center" width="50%">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" />
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" height="250px"/>
       </td>
     </tr>
   </table>
   <div>
-    <h2>My Tools and Languages 🛠️</h2>
+    <h3>My Tools and Languages 🛠️</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="css" width="40" height="40"/>
@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="css" width="40" height="40"/>
   </div>
   <div>
-    <h2>Contact 📱</h2>
+    <h3>Contact 📱</h3>
     <a href="https://www.linkedin.com/in/elijahmilan-inamarga/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
     </a>
