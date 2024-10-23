@@ -8,7 +8,7 @@
     <tr>
       <td align="left">
         <p>
-          Hello, I am a second-year student majoring in computer science in San Diego State University. My interest is in full-stack web apps and websites and my goal is to develop full-stack applications from the ground up that will prove useful to everyday life.
+          Hello, I am a second-year student majoring in computer science in San Diego State University. 
         </p>
       </td>
       <td align="center" width="50%">
