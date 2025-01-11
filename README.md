@@ -6,8 +6,7 @@ Hi, I’m Elijah Inamarga 👋!
 - I love building applications using lower-level languages like C++ and C
 - I have some experience in web-development using React, Redux, Javascript, CSS and HTML
 
-My Tools:
-
+My Tools 🛠️:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" style="margin-right: 10px;"/>
