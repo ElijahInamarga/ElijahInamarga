@@ -9,6 +9,9 @@ Hi, I’m Elijah Inamarga 👋!
 
 My Tools and Languages 🛠️:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="30" height="30" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30" style="margin-right: 10px;"/>
@@ -17,7 +20,4 @@ My Tools and Languages 🛠️:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="30" height="30" style="margin-right: 10px;"/>
 </div>
