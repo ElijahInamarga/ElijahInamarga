@@ -1,5 +1,6 @@
 Hi, I’m Elijah Inamarga 👋!
 - I am a sophomore studying computer science at SDSU 🎓
+- I love going on hikes ⛰️ 
 - I was born in the Philippines 🇵🇭 and I speak native Tagalog
 - I was raised and still live in San Diego with English as my main language
 - My specialty is in C++, C and the Qt development framework 💻
