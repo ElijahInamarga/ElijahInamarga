@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>
     Hello, I am Elijah Milan Inamarga! 👋
   </h1>
