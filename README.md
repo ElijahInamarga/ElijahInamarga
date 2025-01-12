@@ -5,8 +5,8 @@ Hi, I’m Elijah Inamarga 👋!
 - I was raised and still live in San Diego with English as my main language
 - My specialty is in C++, C and the Qt development framework 💻
 - I love building applications 📚 using lower-level languages like C++ and C
-- 🌱 I have some experience in web-development using React, Redux, Javascript, CSS and HTML
-- 📫 You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga
+- I have some experience in web-development using React, Redux, Javascript, CSS and HTML 🌱
+- You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga 📫
 
 My Tools and Languages 🛠️:
 <div>
