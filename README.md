@@ -6,7 +6,7 @@ Hi, I’m Elijah Inamarga 👋!
 - My specialty is in C++, C and the Qt development framework 💻
 - I love building applications 📚 using lower-level languages like C++ and C
 - I have some experience in web-development using React, Redux, Javascript, CSS and HTML 🌱
-- You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga or using my email: elijahcek@gmail.com 📫
+- You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga or through my email: elijahcek@gmail.com 📫
 
 My Tools and Languages 🛠️:
 <div>
