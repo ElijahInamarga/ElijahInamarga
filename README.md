@@ -1,4 +1,4 @@
-Hi, I’m Elijah Inamarga 👋!
+💫 Hi, I’m Elijah Inamarga 👋!
 - I am a sophomore studying computer science at SDSU 🎓
 - I love going on hikes ⛰️ 
 - I was born in the Philippines 🇵🇭 and I speak native Tagalog
