@@ -3,7 +3,7 @@
 - I love going on hikes ⛰️ 
 - I was born in the Philippines 🇵🇭 and I speak native Tagalog
 - I was raised and still live in San Diego with English as my main language
-- I love building applications 📚 using lower-level languages like C++ and C 🚀
+- I love building applications 📚 
 - I have some experience in web-development using React, Redux, Javascript, CSS and HTML 🌱
 - You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga or through my email: elijahcek@gmail.com 📫
 
