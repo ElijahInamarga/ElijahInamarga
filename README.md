@@ -3,7 +3,8 @@ Hi, I’m Elijah Inamarga!
 - I love going on hikes 
 - I was born in the Philippines and I speak native Tagalog
 - I was raised and still live in San Diego with English as my main language
-- My interests are in low-level embedded systems  
+- My interests are in low-level embedded systems
+- I've worked on DMR and D-STAR encoding/decoding software and I am HAM-licensed
 - You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga or through my email: elijahcek@gmail.com
 
 My Tools and Languages 🛠️:
