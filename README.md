@@ -4,14 +4,14 @@
 - I was born in the Philippines 🇵🇭 and I speak native Tagalog
 - I was raised and still live in San Diego with English as my main language
 - My interests are in low-level embedded systems 📚 
-- I have some experience in web-development using React, Redux, Javascript, CSS and HTML 🌱
 - You can contact me on linkedin: www.linkedin.com/in/elijah-inamarga or through my email: elijahcek@gmail.com 📫
 
 My Tools and Languages 🛠️:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="30" height="30" style="margin-right: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30" style="margin-right: 10px;"/>
