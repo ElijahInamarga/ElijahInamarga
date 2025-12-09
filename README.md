@@ -7,3 +7,5 @@ Hi! I’m a third-year computer science student. I love low-level programming, r
 - Linux driver development
 - Low-level programming
 - Embedded systems
+
+My favorite programming language is C!
