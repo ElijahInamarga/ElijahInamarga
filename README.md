@@ -1,10 +1,10 @@
 # About me
-Hi! I’m a third-year computer science student. I love low-level programming, configuring my desktop environment, and customizing my text editor!
+Hi! I’m a third-year computer science student. I love low-level programming, customizing my desktop environment, and configuring my text editor!
 
 # Talk to me about
 - Neovim
-- Linux driver development
+- Arch Linux ricing
 - Low-level programming
-- Embedded systems
+- Linux driver development
 
 My favorite programming language is C!
