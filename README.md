@@ -4,6 +4,6 @@ Hi! I’m a third-year computer science student. I love low-level programming, c
 # Talk to me about
 - Neovim
 - Arch Linux ricing
-- Low-level programming
+- Low-level computer science concepts
 
 My favorite programming language is C!
