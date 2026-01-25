@@ -3,7 +3,11 @@ Hi! I’m a third-year computer science student. I love low-level programming, c
 
 # Talk to me about
 - Neovim
-- Embedded Systems
+- Custom dev environments
 - Low-level computer science concepts
+
+# Currently learning about
+- Embedded Linux
+- IoT
 
 My favorite programming language is C!
