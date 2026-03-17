@@ -7,7 +7,6 @@ Hi! I’m a third-year computer science student. I love low-level programming, c
 - Low-level computer science concepts
 
 # Currently learning about
-- Operating Systems
-- Embedded Linux
+- Embedded Systems
 
 My favorite programming language is C!
