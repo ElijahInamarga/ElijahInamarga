@@ -1,9 +1,12 @@
 # About me
-Hi! I’m a fourth-year computer science student. I love customizing my desktop environment and configuring my text editor!
+Hi! I’m a fourth-year computer science student with a strong passion in embedded systems, robotics, and IoT. I love low-level programming and configuring my text editor!
 
 # Talk to me about
 - Neovim
-- Custom dev environments
+- Hiking
 
 # Currently learning about
-- Embedded Systems
+- Unmanned Aerial Systems (UAS)
+- Embedded Systems in general
+
+My favorite programming language is C!
