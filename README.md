@@ -6,7 +6,7 @@ Hi! I’m a fourth-year computer science student with a strong passion in embedd
 - Hiking
 
 # Currently learning about
-- Unmanned Aerial Systems (UAS)
+- Unmanned Aircraft Systems (UAS)
 - Embedded Systems in general
 
 My favorite programming language is C!
